@@ -12,7 +12,7 @@
     "husky": "8.0.1",
     "lint-staged": "12.4.2",
     "npm-run-all": "4.1.5",
-    "prettier": "2.6.2"
+    "prettier": "2.7.1"
   },
   "engines": {
     "node": ">=18.2.0 <19.0.0",
